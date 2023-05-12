@@ -9,8 +9,8 @@ Yellevate is an imaginary company that helps with marketing and online support f
 
 We inspected and cleaned the data collected using SQL. The cleaned dataset was then analyzed using Excel to obtain the following information:
              
-![](/images/g1.png)
-*Fig. 1. Average Number of Days to Settle Invoices per Country*
+![*Fig. 1. Average Number of Days to Settle Invoices per Country*](/images/g1.png)
+
             
 ![](/images/g2.png)
 *Fig. 2. Average Number of Days to Settle Disputes per Country*

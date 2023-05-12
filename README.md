@@ -20,3 +20,5 @@ Fig. 4. Percentage of Revenue Lost from Disputes per Country
 
 Fig. 5. Revenue Losses (USD) per Country
 ![](https://github.com/MaryRegineCalamba/mcalamba_portfolio/blob/main/images/g5.png)
+
+gjnjhceuyb

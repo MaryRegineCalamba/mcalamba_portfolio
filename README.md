@@ -15,10 +15,11 @@ Fig. 2. Average Number of Days to Settle Disputes per Country
 Fig. 3. Percentage of Disputes Received by the Company that were Lost per Country
 ![](https://github.com/MaryRegineCalamba/mcalamba_portfolio/blob/main/images/g3.png)
 
+Fig. 5. Revenue Losses (USD) per Country
+![](https://github.com/MaryRegineCalamba/mcalamba_portfolio/blob/main/images/g5.png)
+
 Fig. 4. Percentage of Revenue Lost from Disputes per Country
 ![](https://github.com/MaryRegineCalamba/mcalamba_portfolio/blob/main/images/g4.png)
 
 Fig. 5. Revenue Losses (USD) per Country
 ![](https://github.com/MaryRegineCalamba/mcalamba_portfolio/blob/main/images/g5.png)
-
-gjnjhceuyb

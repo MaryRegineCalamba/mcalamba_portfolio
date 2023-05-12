@@ -1,4 +1,4 @@
-# Yellevate: A Statistical Investigation on Disputes and Losses
+## Yellevate: A Statistical Investigation on Disputes and Losses
 
 ### Overview
 
